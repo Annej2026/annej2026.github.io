@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<ol>
+<li>This</li>
+<li>is</li>
+<li>a</li>
+<li>list</li>
+</ol>
+
+<ul>
+<li>This is a list</li>
+<li>This is a list</li>
+<li>Thisis a list</li>
+</ul>
+
+</body>
+</html>
