@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is yet another Heading</h1>
+<a href="https://www.w3schools.com/code/tryit.asp?filename=G6G8L963OFJR">Click to view more</a>
+
+<p>This is another paragraph.</p>
+<table>
+<tr><td></td><td></td><td></td> </tr>
+</table>
+
+<img src="mary.png" alt="Girl in a jacket"> 
+
+</body>
+</html>
